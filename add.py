@@ -1,0 +1,5 @@
+print('Lets`s practice some math problems with this magic calculator')
+a = input('First number: ')
+b = input('Second number: ')
+sum = int(a) + int(b)
+print('The sum of your numbers is: ',sum)

@@ -1,0 +1,6 @@
+print("Let`s introduce yourself")
+name = input("What`s your name? ")
+major = input("What`s your major? ")
+hobby = input("What`s your favourite hobby?")
+print("\nHere is information about myself: ")
+print("Hello. " + name + " " + major + " " + hobby + " Nice to meet you! ")
